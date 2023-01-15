@@ -12,3 +12,7 @@ This organization contains the source for the ISO builders for the Ubuntu remixe
 2. have CI/CD set up for ISO builds
 
 The source code for all the other Ubuntu remixes can be found at https://gitlab.com/ubuntu-unity/ubuntu-remixes.
+
+You can fork any of the repos in this group to build an Ubuntu remix.
+
+Please refer to https://ubuntu.com/legal/intellectual-property-policy to avoid infringing Canonical's trademarks.
